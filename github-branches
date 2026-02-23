@@ -1,0 +1,4 @@
+git branch -vv
+* bug-fix-revert f52fe6e Revert "update copyright date"
+  bug-fix-typo   1ca9d78 update copyright date
+  main           1ca9d78 [origin/main: ahead 1] update copyright date
